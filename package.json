@@ -1,0 +1,27 @@
+{
+  "name": "either",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reaganthomas/either"
+  },
+  "keywords": [
+    "either",
+    "monad",
+    "functr",
+    "functional",
+    "javascript",
+    "programming"
+  ],
+  "author": "Reagan Thomas <reagan@reaganthomas.com> (http://reaganthomas.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reaganthomas/either/issues"
+  },
+  "homepage": "https://github.com/reaganthomas/either"
+}
